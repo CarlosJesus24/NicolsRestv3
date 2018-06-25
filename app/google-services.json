@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "877355547991",
+    "firebase_url": "https://nicolrestv3.firebaseio.com",
+    "project_id": "nicolrestv3",
+    "storage_bucket": "nicolrestv3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877355547991:android:8450182dcc13b9a4",
+        "android_client_info": {
+          "package_name": "com.example.jcarlos.nicolsrest_v3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877355547991-dv0q1qel41nsiqss8qj4opba7v3jnajk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jcarlos.nicolsrest_v3",
+            "certificate_hash": "c3f8d8f66a52babcf938163fb91838a61baa2623"
+          }
+        },
+        {
+          "client_id": "877355547991-csmlj5o5uv5uapfltg3i2qub8gn0a101.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtaXPcB2ySRPdEGK1aHHt2UScwhN0lZR8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877355547991-csmlj5o5uv5uapfltg3i2qub8gn0a101.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

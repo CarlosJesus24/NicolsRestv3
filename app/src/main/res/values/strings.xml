@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Nicol\'s v3</string>
+    <string name="nicol_s">Nicol\'s</string>
+    <string name="bienvenido_a_nicol_s_sientace_en_casa">Bienvenido a Nicol\'s sientace en casa</string>
+
+    <string name="nicol_s_ofrece_desayunos_aluerzos_y_el_servicio_de_delibery">Nicol\'s ofrece Desayunos, Aluerzos y el servicio de Delibery.</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="todo">TODO</string>
+    <string name="description_is_here">Description is Here</string>
+    <string name="log_out">Salir Sesion</string>
+    <string name="revoke">SIGUIENTE</string>
+    <string name="not_close_session">No se pudo cerrar sesión</string>
+    <string name="not_revoke">No se pudo revocar el acceso</string>
+    <string name="not_log_in">No se pudo iniciar sesion</string>
+
+    <string name="enter_user">Usuario</string>
+    <string name="enter_password">Contraseña</string>
+    <string name="enter_email">Correo</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_categorias">Categorias</string>
+    <string name="title_activity_platos">Platos</string>
+    <string name="title_activity_bebidas">Bebidas</string>
+    <string name="title_activity_porciones">Entradas</string>
+    <string name="title_activity_parrillada">Carnes</string>
+    <string name="title_activity_mariscos">Marinos</string>
+    <string name="title_activity_control_menu">Control Menu</string>
+    <string name="title_activity_administrador">Administrador</string>
+    <string name="title_activity_control_platos">Control de Platos</string>
+    <string name="title_activity_menu_list">Menu_list</string>
+    <string name="title_activity_lista_platos">ListaPlatos</string>
+    <string name="title_activity_carrilto">Carrito de Compras</string>
+    <string name="title_activity_registro_sms">Seguridad</string>
+    <string name="title_activity_custom_adapter_list2">CustomAdapterList2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_adapter_list2">AdapterList2</string>
+    <string name="title_activity_acerca">Acerca De</string>
+    <string name="title_activity_listado_final">Listado Final</string>
+    <string name="title_activity_notas">Notas</string>
+    <string name="title_activity_listado_pedido">Listado de Pedido</string>
+    <string name="title_activity_pedido">Pedido</string>
+</resources>

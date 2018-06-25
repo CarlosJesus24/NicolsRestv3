@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:id="@+id/slidelinearlayout">
+
+    <ImageView
+        android:id="@+id/slideimg"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="51dp"
+        android:contentDescription="@string/todo" />
+
+    <TextView
+        android:id="@+id/txttitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/slideimg"
+        android:layout_centerHorizontal="true"
+        android:padding="16dp"
+        android:text="Title Here"
+        android:textColor="#fff"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtdescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="@string/description_is_here"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="17sp" />
+
+    <ImageView
+        android:id="@+id/imagensiguiente"
+        android:layout_width="139dp"
+        android:layout_height="61dp"
+        android:contentDescription="TODO" />
+
+    <TextView
+        android:id="@+id/finalizar"
+        android:layout_width="183dp"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:textAlignment="center"
+        android:textColor="#fff" />
+
+
+</LinearLayout>
